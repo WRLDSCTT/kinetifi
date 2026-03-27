@@ -5,7 +5,7 @@ from threading import Thread
 import random
 
 # --- CONFIGURATION ---
-TOKEN = 8666581687:AAEeAyy33mjDhgdKQ-SY2uyrlURhC5YHCsc
+TOKEN = "8666581687:AAEeAyy33mjDhgdKQ-SY2uyrlURhC5YHCsc"
 bot = telebot.TeleBot(TOKEN)
 app = Flask('')
 
